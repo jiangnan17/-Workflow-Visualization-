@@ -1,4 +1,4 @@
-# -Workflow-可视化(Visualization)-
-将CyberShake、Epigenomics、Inspiral、Montage和Sipht的.xml文件可视化，以便更清楚了解它们的结构.
+# -Workflow Visualization-
+This project visualizes the structure of workflow files in XML format for CyberShake, Epigenomics, Inspiral, Montage, and Sipht, providing a clearer understanding of their design and structure.
 
 run dataprocess.m
